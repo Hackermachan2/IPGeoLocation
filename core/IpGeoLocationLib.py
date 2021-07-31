@@ -26,7 +26,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__ = 'maldevel'
+__author__ = 'HACKERMACHAN'
 
 from core.Utils import Utils
 import json, random, os
