@@ -5,7 +5,7 @@
     This file is part of IPGeoLocation tool.
     Copyright (C) 2015-2016 @maldevel
     Modify    (M) 2020-2021 @Hackermachan
-    https://github.com/Hackermachan/IPGeoLocation
+    https://github.com/Hackermachan2/IPGeoLocation
     
     IPGeoLocation - Retrieve IP Geolocation information 
     Powered by http://ip-api.com
