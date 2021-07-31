@@ -26,7 +26,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__ = 'maldevel'
+__author__ = 'HACKERMACHAN'
 
 import csv
 from xml.etree import ElementTree as etree
