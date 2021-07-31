@@ -27,7 +27,7 @@
 """
 
 __author__   = 'HACKERMACHAN'
-__twitter__  = '@Hackermachan'
+__instagram__  = '@sajuuz_5'
 __version__  = '2.0.4'
 __year__     = '2020-2021'
 
