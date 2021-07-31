@@ -4,6 +4,7 @@
 """
     This file is part of IPGeoLocation tool.
     Copyright (C) 2015-2016 @maldevel
+    Modify    (M) 2020-2021 @Hackermachan
     https://github.com/maldevel/IPGeoLocation
     
     IPGeoLocation - Retrieve IP Geolocation information 
@@ -25,7 +26,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__  = 'maldevel'
+__author__  = 'Hackermachan'
 
 
 import sys, os
