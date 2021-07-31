@@ -26,7 +26,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__ = 'Hackermachan'
+__author__ = 'HACKERMACHAN'
 
 
 class UserAgentFileEmptyError(Exception):
