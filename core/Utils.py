@@ -4,7 +4,8 @@
 """
     This file is part of IPGeoLocation tool.
     Copyright (C) 2015-2016 @maldevel
-    https://github.com/maldevel/IPGeoLocation
+    Modify    (M) 2020-2021 @Hackermachan
+    https://github.com/Hackermachan2/IPGeoLocation
     
     IPGeoLocation - Retrieve IP Geolocation information 
     Powered by http://ip-api.com
@@ -25,7 +26,7 @@
     For more see the file 'LICENSE' for copying permission.
 """
 
-__author__ = 'maldevel'
+__author__ = 'HACKERMACHAN'
 
 import webbrowser, ipaddress, socket
 from sys import platform as _platform
